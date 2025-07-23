@@ -28,10 +28,6 @@ A simple and user-friendly Python web scraper with a graphical interface built u
    python Scraper.py
    ```
 
-## 📷 GUI Preview
-
-![App Screenshot](https://via.placeholder.com/600x300.png?text=Scraper+GUI+Preview)
-
 ## 📄 Output Example
 
 The saved `.txt` file will contain nicely formatted text like this:
