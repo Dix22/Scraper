@@ -49,9 +49,10 @@ Another paragraph with proper spacing and no HTML tags.
 - Requests
 - BeautifulSoup4
 
-## 🧑‍💻 Author
+## 📫 Contact
 
-Made with ❤️ by [Dix22](https://github.com/Dix22)
+Developed by **Dix22**  
+Discord: `__decep`
 
 ---
 
