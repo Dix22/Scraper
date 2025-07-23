@@ -45,6 +45,13 @@ Another paragraph with proper spacing and no HTML tags.
 - Requests
 - BeautifulSoup4
 
+---
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
 ## 📫 Contact
 
 Developed by **Dix22**  
